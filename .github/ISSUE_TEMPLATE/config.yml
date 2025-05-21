@@ -3,5 +3,5 @@ contact_links:
     url: https://schedule.jcon.one/help
     about: "If you other general problems like lost tickets or don't know where the coffee can be found"
   - name: 💬 General Support - Mail
-    url: "mailto:info@jcon.one"
+    url: mailto:info@jcon.one
     about: "If you other general problems like lost tickets or don't know where the coffee can be found"
