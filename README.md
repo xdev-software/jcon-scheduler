@@ -10,4 +10,4 @@ You can either
 * ask people in red JCON shirts
 * or send a mail to ``info@jcon.one``
 
-Further information about the conference can be found at https://2025.europe.jcon.one/infos
+Further information about the conference can be found at https://jcon.koeln/infos
